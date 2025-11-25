@@ -43,7 +43,7 @@
 - Chemberta-2: Towards chemical foundation models 
 - Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction 
 - Chemformer: A Pre-Trained Transformer for Computational Chemistry 
-- Self-Attention Based Molecule Representation for Pred...ting Drug-Target Interaction 
+- Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction 
 - SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties 
 - ReactionT5: a pre-trained transformer model for accurate chemical reaction prediction with limited data 
 - Chemical representation learning for toxicity prediction 
@@ -72,7 +72,7 @@
 - Language models can explain neurons in language models 
 - GNN-SKAN: Advancing Molecular Representation Learning with SwallowKAN 
 - Semi-supervised classification with graph convolutional networks 
-- SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanc...perty Regression 
+- SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanced Molecular Property Regression 
 - Recipe for a general, powerful, scalable graph transformer 
 - GraphMAE: Self-Supervised Masked Graph Autoencoders 
 - A compact review of molecular property prediction with graph neural networks 
@@ -112,7 +112,7 @@
 
 - Pre-training molecular graph representation with 3d geometry 
 - Graph-BERT and language model-based framework for protein--protein interaction identification 
-- Holo-Mol: An explainable hybrid deep learning framework for pr...d on holographic fused molecular representations 
+- Holo-Mol: An explainable hybrid deep learning framework for predicting reactivity of hydroxyl radical to water contaminants based on holographic fused molecular representations 
 - GraSeq: graph and sequence fusion learning for molecular property prediction 
 
 ------
@@ -144,7 +144,7 @@
 - Molecular geometry-aware transformer for accurate 3d atomic system modeling 
 - Torchmd-net: equivariant transformers for neural network based molecular potentials 
 - Molecule attention transformer 
-- Chemical Graph-Based Transformer Models for Yield Prediction o...Throughput Cross-Coupling Reaction Datasets 
+- Chemical Graph-Based Transformer Models for Yield Prediction of High-Throughput Cross-Coupling Reaction Datasets 
 - Recipe for a general, powerful, scalable graph transformer 
 - Directed message passing based on attention for prediction of molecular properties 
 - Self-supervised graph transformer on large-scale molecular data 
@@ -153,7 +153,7 @@
 
 ### Hybrid Architectures
 
-- Chemception: A Deep Neural Network with Minimal Chemistry Know...Performance of Expert-developed QSAR/QSPR Models 
+- Chemception: A Deep Neural Network with Minimal Chemistry Knowledge Matches the Performance of Expert-developed QSAR/QSPR Models 
 - Gps++: An optimised hybrid mpnn/transformer for molecular property prediction 
 - Pre-training molecular graph representation with 3d geometry 
 - GraSeq: graph and sequence fusion learning for molecular property prediction 
@@ -161,7 +161,7 @@
 - GNN-SKAN: Advancing Molecular Representation Learning with SwallowKAN 
 - Graph-BERT and language model-based framework for protein--protein interaction identification 
 - Graphkan: Graph kolmogorov arnold network for small molecule-protein interaction predictions 
-- Holo-Mol: An explainable hybrid deep learning framework for pr...d on holographic fused molecular representations 
+- Holo-Mol: An explainable hybrid deep learning framework for predicting reactivity of hydroxyl radical to water contaminants based on holographic fused molecular representations 
 
 ------
 
@@ -192,13 +192,13 @@
 - Fast and uncertainty-aware directional message passing for non-equilibrium molecules 
 - Molecular geometry-aware transformer for accurate 3d atomic system modeling 
 - Self-supervised graph transformer on large-scale molecular data 
-- SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanc...perty Regression 
+- SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanced Molecular Property Regression 
 - DeepDTA: deep drug–target binding affinity prediction 
 - Graph attention networks 
 - Chemprop: A Machine Learning Package for Chemical Property Prediction 
 - Fate-tox: fragment attention transformer for E(3)-equivariant multi-organ toxicity prediction 
 - Geometry-enhanced molecular representation learning for property prediction 
-- Chemception: A Deep Neural Network with Minimal Chemistry Know...Performance of Expert-developed QSAR/QSPR Models 
+- Chemception: A Deep Neural Network with Minimal Chemistry Knowledge Matches the Performance of Expert-developed QSAR/QSPR Models 
 - Molecular contrastive learning of representations via graph neural networks 
 
 ------
@@ -211,9 +211,9 @@
 - Generalizing neural wave functions 
 - PND: Physics-informed neural-network software for molecular dynamics applications 
 - Scaling deep learning for materials discovery 
-- Catalyst Energy Prediction with CatBERTa: Unveiling Feature E...on Strategies through Large Language Models 
+- {Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models} 
 - CataLM: Empowering Catalyst Design Through Large Language Models 
-- Uni-Electrolyte: An Artificial Intelligence Platform for Desig...Electrolyte Molecules for Rechargeable Batteries 
+- Uni-Electrolyte: An Artificial Intelligence Platform for Designing Electrolyte Molecules for Rechargeable Batteries 
 - A predictive machine learning force-field framework for liquid electrolyte development 
 - Generative Pretrained Transformer for Heterogeneous Catalysts 
 
@@ -222,7 +222,7 @@
 ### Other Applications
 
 - Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds 
-- Self-Attention Based Molecule Representation for Pred...ting Drug-Target Interaction 
+- Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction 
 - Chemformer: A Pre-Trained Transformer for Computational Chemistry 
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction 
-- Integration of Transfer Learning and Multitask Learning To Pre...Multiple Nuclear Receptors Associated with Hepatic Lipotoxicity 
+- Integration of Transfer Learning and Multitask Learning To Predict the Potential of Per/Polyfluoroalkyl Substances in Activating Multiple Nuclear Receptors Associated with Hepatic Lipotoxicity 
