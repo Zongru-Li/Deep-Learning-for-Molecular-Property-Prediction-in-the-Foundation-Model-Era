@@ -1,7 +1,7 @@
 # Deep-Learning-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era
 
 <p align="center">
-  <img src="\figure\fig1_intro.png" alt="Overview and contributions of this survey. The survey constructs a unified framework that organizes over 100 deep learning methods for molecular property prediction across four axes: evolution, taxonomy, capability, and roadmap. " width="1000"/>
+  <img src="Figure\fig1_intro.png" alt="Overview and contributions of this survey. The survey constructs a unified framework that organizes over 100 deep learning methods for molecular property prediction across four axes: evolution, taxonomy, capability, and roadmap. " width="1000"/>
 </p>
 <p align="center">The pipeline of LLM-Driven time series analysis from prompts to agents</p>
 
