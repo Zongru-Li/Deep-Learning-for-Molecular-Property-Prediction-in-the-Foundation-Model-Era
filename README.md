@@ -171,7 +171,7 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 ### Graph Transformers
 
 <p align="center">
-  <img src="Figure\fig3_Transformer.png" alt="Transformer in MPP" width="1000"/>
+  <img src="Figure\fig4_Transformer.png" alt="Transformer in MPP" width="1000"/>
 </p>
 <p align="center">Transformer in MPP</p>
 
