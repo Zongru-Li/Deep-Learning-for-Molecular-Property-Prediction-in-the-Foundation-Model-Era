@@ -1,6 +1,24 @@
 # Deep-Learning-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era
 
-# Table of Contents
+<p align="center">
+  <img src="\figure\fig1_intro.png" alt="Overview and contributions of this survey. The survey constructs a unified framework that organizes over 100 deep learning methods for molecular property prediction across four axes: evolution, taxonomy, capability, and roadmap. " width="1000"/>
+</p>
+<p align="center">The pipeline of LLM-Driven time series analysis from prompts to agents</p>
+
+## About This Project
+This repository is a continuously updated collection of papers and resources dedicated to "A Systematic Survey and Benchmarks of Deep Learning for Molecular Property Prediction in the Foundation Model Era".
+
+For in-depth knowledge, check out our survey paper: "A Systematic Survey and Benchmarks of Deep Learning for Molecular Property Prediction in the Foundation Model Era".
+
+If you find this project helpful, we kindly ask you to consider citing our work:
+```bibtex
+@article{li_mpp_foundation,
+  title={A Systematic Survey and Benchmarks of Deep Learning for Molecular Property Prediction in the Foundation Model Era},
+  author={Li, Zongru and Chen, Xingsheng and Wen, Honggang and Zhang, Regina and Li, Ming and Zhang, Xiaojin and Yin, Hongzhi and Yang, Qiang and Lam, Kwok-Yan and Lio, Pietro and Yiu, Siu-Ming},
+}
+```
+
+## Table of Contents
 
 - [Representation Modalities](#representation-modalities)
   - [1D Representations](#1d-representations)
