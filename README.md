@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Figure\fig1_intro.png" alt="Overview and contributions of this survey. The survey constructs a unified framework that organizes over 100 deep learning methods for molecular property prediction across four axes: evolution, taxonomy, capability, and roadmap. " width="1000"/>
 </p>
-<p align="center">The pipeline of LLM-Driven time series analysis from prompts to agents</p>
+<p align="center">Overview and contributions of this survey. The survey constructs a unified framework that organizes over 100 deep learning methods for molecular property prediction across four axes: evolution, taxonomy, capability, and roadmap.</p>
 
 ## About This Project
 This repository is a continuously updated collection of papers and resources dedicated to "A Systematic Survey and Benchmarks of Deep Learning for Molecular Property Prediction in the Foundation Model Era".
@@ -17,6 +17,11 @@ If you find this project helpful, we kindly ask you to consider citing our work:
   author={Li, Zongru and Chen, Xingsheng and Wen, Honggang and Zhang, Regina and Li, Ming and Zhang, Xiaojin and Yin, Hongzhi and Yang, Qiang and Lam, Kwok-Yan and Lio, Pietro and Yiu, Siu-Ming},
 }
 ```
+
+<p align="center">
+  <img src="Figure\fig5_pipeline.png" alt="The pipeline of deep learning-driven MPP" width="1000"/>
+</p>
+<p align="center">The pipeline of deep learning-driven MPP</p>
 
 ## Table of Contents
 
@@ -41,6 +46,11 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 ------
 
 ## Representation Modalities
+
+<p align="center">
+  <img src="Figure\fig2_representation.png" alt="The representations of molecules" width="1000"/>
+</p>
+<p align="center">The representations of molecules</p>
 
 ### 1D Representations
 
@@ -139,6 +149,11 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 
 ### Geometric GNNs
 
+<p align="center">
+  <img src="Figure\fig3_GNN.png" alt="Geometric GNN in MPP" width="1000"/>
+</p>
+<p align="center">Geometric GNN in MPP</p>
+
 - SchNet: a continuous-filter convolutional neural network for modeling quantum interactions 
 - E(n) Equivariant Graph Neural Networks 
 - Gemnet: Universal directional graph neural networks for molecules 
@@ -154,6 +169,11 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 ------
 
 ### Graph Transformers
+
+<p align="center">
+  <img src="Figure\fig3_Transformer.png" alt="Transformer in MPP" width="1000"/>
+</p>
+<p align="center">Transformer in MPP</p>
 
 - MolE: a foundation model for molecular graphs using disentangled attention 
 - SimSon: Simple contrastive learning of SMILES for molecular property prediction 
@@ -229,7 +249,7 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 - Generalizing neural wave functions 
 - PND: Physics-informed neural-network software for molecular dynamics applications 
 - Scaling deep learning for materials discovery 
-- {Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models} 
+- Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models
 - CataLM: Empowering Catalyst Design Through Large Language Models 
 - Uni-Electrolyte: An Artificial Intelligence Platform for Designing Electrolyte Molecules for Rechargeable Batteries 
 - A predictive machine learning force-field framework for liquid electrolyte development 
@@ -239,7 +259,11 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 
 ### Other Applications
 
-- Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds 
+- Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds
+- Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction 
+- Chemformer: A Pre-Trained Transformer for Computational Chemistry 
+- Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction 
+- Integration of Transfer Learning and Multitask Learning To Predict the Potential of Per/Polyfluoroalkyl Substances in Activating Multiple Nuclear Receptors Associated with Hepatic Lipotoxicity 
 - Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction 
 - Chemformer: A Pre-Trained Transformer for Computational Chemistry 
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction 
