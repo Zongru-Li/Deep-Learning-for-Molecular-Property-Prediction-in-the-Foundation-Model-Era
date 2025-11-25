@@ -78,7 +78,7 @@
 - A compact review of molecular property prediction with graph neural networks 
 - N-gram graph: Simple unsupervised representation for graphs, with applications to molecules 
 - Neural message passing for Quantum chemistry 
-- Chemical Graph-Based Transformer Models for Yield Prediction o...Throughput Cross-Coupling Reaction Datasets 
+- Chemical Graph-Based Transformer Models for Yield Prediction of High Throughput Cross-Coupling Reaction Datasets 
 - Self-supervised graph transformer on large-scale molecular data 
 - How powerful are graph neural networks? 
 - Kagnns: Kolmogorov-arnold networks meet graph learning 
