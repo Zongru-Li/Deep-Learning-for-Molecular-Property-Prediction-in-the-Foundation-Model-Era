@@ -12,9 +12,9 @@ For in-depth knowledge, check out our survey paper: "A Systematic Survey and Ben
 
 If you find this project helpful, we kindly ask you to consider citing our work:
 ```bibtex
-@article{li_mpp_foundation,
+@article{lisystematic,
   title={A Systematic Survey and Benchmarks of Deep Learning for Molecular Property Prediction in the Foundation Model Era},
-  author={Li, Zongru and Chen, Xingsheng and Wen, Honggang and Zhang, Regina and Li, Ming and Zhang, Xiaojin and Yin, Hongzhi and Yang, Qiang and Lam, Kwok-Yan and Lio, Pietro and Yiu, Siu-Ming},
+  author={Li, Zongru and Chen, Xingsheng and Wen, Honggang and Zhang, Regina and Li, Ming and Zhang, Xiaojin and Yin, Hongzhi and Yang, Qiang and Lam, Kwok-Yan and Lio, Pietro and others}
 }
 ```
 
